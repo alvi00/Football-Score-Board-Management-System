@@ -1,0 +1,3 @@
+Team{name='Team A', points=3, matchesPlayed=1, goalDifference=1}
+Team{name='Team C', points=0, matchesPlayed=0, goalDifference=0}
+Team{name='Team B', points=0, matchesPlayed=1, goalDifference=-1}
